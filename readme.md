@@ -2,7 +2,7 @@
 
 ## Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### By Leon Peery
 
 ### Description
 
